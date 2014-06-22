@@ -1,0 +1,8 @@
+Codebook
+=========================
+
+# Overview
+
+## Variables
+
+## Placeholder
