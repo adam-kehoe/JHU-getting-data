@@ -14,13 +14,13 @@ The code book contains additional details.
 
 ## Step 1: Read common data
 
-The first step loads data common to both the training and test datasets, and then relabels them with more meaning labels.
+The first step loads data common to both the training and test datasets, and then relabels them for easier access.
 
 ## Step 2: Read the test and training data
 
 The second step loads the raw data, subject IDs, and activity IDs for the test and training data.
 
-Then, using the common data, the primary data is relabeled using the more meaningful feature labels.
+Then, using the data from step 1, the primary data is relabeled using the more meaningful feature labels.
 
 ## Step 3: Filter for just mean and median columns
 
